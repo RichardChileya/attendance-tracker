@@ -10,3 +10,12 @@
   justify-content: center;
   align-items: center;
 }
+
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.nav-list {
+  display: flex;
+}

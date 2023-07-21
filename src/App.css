@@ -22,3 +22,22 @@
   gap: 2rem;
   list-style: none;
 }
+
+.page-hero {
+  display: flex;
+  justify-content: center;
+  background-color: antiquewhite;
+}
+
+.checkin {
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem 20%;
+}
+
+.time-btn {
+  display: flex;
+  margin: 14px;
+  padding: 1rem;
+  gap: 10px;
+}
